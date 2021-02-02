@@ -43,4 +43,4 @@ def play(board)
     turn(board)
   end
   puts "Game over"
-end 
+end
